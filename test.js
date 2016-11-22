@@ -50,7 +50,7 @@ var brush  = function(){
 		    starttime = input[1].match(/value="([^"]*)"/)[1];
 		    source = input[2].match(/value="([^"]*)"/)[1];
 		    $('[data=data-result] em').html('获取页面成功');
-		},
+		}, 
 		function(data){
 			$('[data=data-result] em').html('获取页面失败');
 			errors ++;
