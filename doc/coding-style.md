@@ -1,5 +1,6 @@
 #   zpy-fe 代码规范 ![Mou icon](https://www.zipeiyi.com/favicon.ico)
-    主要代码规范参考自**BAIDU ecomfe**.其中Javascript规范为必要执行规范，html以及css规范部分为推荐执行，部分为必要执行规范。具体规范细节在team讨论过后再给出。
+    主要代码规范参考自**BAIDU ecomfe**.其中Javascript规范为必要执行规范，html以及css规范部分为推荐执行，部分为必要执行规范。
+    具体规范细节在team讨论过后再给出。
     
 - [Javascript编码规范](javascript-style-guide.md) 
 - [HTML编码规范](html-style-guide.md) 
